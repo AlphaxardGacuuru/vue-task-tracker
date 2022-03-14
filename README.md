@@ -14,8 +14,3 @@ npm run serve
 ```
 npm run backend
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
